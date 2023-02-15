@@ -53,6 +53,7 @@ function cmp(a, b, c) {
     return (a === b) && (a === c) && (b === c)
 }
 
+
 function fnreset() {
     for(let col of cols){
       col.classList.remove('win')
