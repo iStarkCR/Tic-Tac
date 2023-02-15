@@ -23,5 +23,8 @@ O jogo foi implementado usando JavaScript, CSS e HTML
 * Abra o arquivo index.html em um navegador da web
 * Comece a jogar!
 
+## link para o game
+https://istarkcr.github.io/Tic-Tac/
+
 By iStarkCR
 
